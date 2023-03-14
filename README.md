@@ -1,1 +1,0 @@
-# jws_test_image
